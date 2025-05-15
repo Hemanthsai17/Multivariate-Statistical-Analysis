@@ -1,1 +1,2 @@
-# MDSC-202
+# Multivariate Statistical Analysis
+MDSC-202
